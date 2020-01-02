@@ -1,6 +1,6 @@
 Install globally:
 
-> npm typescript http-server
+> npm typescript http-server -g
 
 Install packages from the package.json file:
 
