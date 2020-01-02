@@ -1,4 +1,4 @@
-Install globally:
+Install the TypeScript compiler globally:
 
 > npm typescript -g
 
