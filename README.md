@@ -14,6 +14,6 @@ Run the server locally:
 
 > npm start
 
-Go to the browser:
+Go to the browser and type:
 
-> localhost:3000
+> localhost:3000/users/create
