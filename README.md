@@ -17,3 +17,7 @@ Run the server locally:
 Go to the browser and type:
 
 > localhost:3000/users/create
+
+![AddUser](https://raw.githubusercontent.com/8Observer8/mvc-model-as-array-in-typescript/master/screenshots/AddUser.png)
+
+![ListOfUsers](https://raw.githubusercontent.com/8Observer8/mvc-model-as-array-in-typescript/master/screenshots/ListOfUsers.png)
